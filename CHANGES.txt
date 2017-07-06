@@ -1,0 +1,120 @@
+tag 713c711da59dfe7be50fd53a44cd7673bd91503c 7.2.3.1
+Author:	Sidoine De Wispelaere <sidoine@sidoine.net>
+Date:	Mon Jun 19 23:49:13 2017 +0200
+
+Fixes by kevindesmet
+
+commit b25b1c7d787036a47dbbebb6dc37c0a05425b466
+Author: Kevin De Smet <kevin.de.smet@outlook.be>
+Date:   Mon Jun 19 17:29:33 2017 +0200
+
+    not used
+
+commit b25b1c7d787036a47dbbebb6dc37c0a05425b466
+Author: Kevin De Smet <kevin.de.smet@outlook.be>
+Date:   Mon Jun 19 17:29:33 2017 +0200
+
+    not used
+
+commit 95068b297f75e3d05d356ba7d2d3447d38bc8742
+Author: Kevin De Smet <kevin.de.smet@outlook.be>
+Date:   Mon Jun 19 17:29:12 2017 +0200
+
+    T20 set items and setbonusses
+
+commit 1195b01289d04f1e5393cdff0d666868a8c72bc0
+Author: Kevin De Smet <kevin.de.smet@outlook.be>
+Date:   Mon Jun 19 16:44:56 2017 +0200
+
+    T19 increased fury gen
+
+commit 7257444f4ef7b0be5cfb76b4433ef2d72f54bd48
+Author: Kevin De Smet <kevin.de.smet@outlook.be>
+Date:   Mon Jun 19 16:44:47 2017 +0200
+
+    fury generation from DB
+
+commit ecc5ffb4ad32e09e57ef7f02a6b5572749c6e922
+Author: Kevin De Smet <kevin.de.smet@outlook.be>
+Date:   Mon Jun 19 16:44:23 2017 +0200
+
+    only SB at 4+ stacks
+
+commit 8dd38617952226eea7e720fc160c977c22d2df53
+Author: Kevin De Smet <kevin.de.smet@outlook.be>
+Date:   Sun Jun 18 02:30:09 2017 +0200
+
+    finishers for soul fragments (it can take a while for the animation to finish)
+
+commit cb441f48f890e62790efab5025ec135e4005b2e0
+Author: Kevin De Smet <kevin.de.smet@outlook.be>
+Date:   Sun Jun 18 02:29:40 2017 +0200
+
+    spirit bomb only apply frailty when defensive
+
+commit fedf5f70c0660c4f46fdc9f9f86f03ec510e9577
+Author: Kevin De Smet <kevin.de.smet@outlook.be>
+Date:   Sun Jun 18 02:29:19 2017 +0200
+
+    soul carver only for mobs that live long
+
+commit 0f9d7c3e783db6b83941bec1a11596cfd50892dd
+Author: Kevin De Smet <kevin.de.smet@outlook.be>
+Date:   Sat Jun 17 12:12:24 2017 +0200
+
+    don't wait so long to refresh ISB
+
+commit cf7c701fc9cdc38e8d7139df5c414ff38d1e6690
+Author: Kevin De Smet <kevin.de.smet@outlook.be>
+Date:   Sat Jun 17 12:11:59 2017 +0200
+
+    simplyfy vengeance dh
+
+commit 541227e625bad55010b41a349d281dd7ffb5b37a
+Author: Kevin De Smet <kevin.de.smet@outlook.be>
+Date:   Sat Jun 17 12:11:46 2017 +0200
+
+    A more accurate counting of SoulFragments
+
+commit 39c662981307f6948b2894414cabc252c90f6d25
+Author: Kevin De Smet <kevin.de.smet@outlook.be>
+Date:   Fri Jun 16 16:45:48 2017 +0200
+
+    add support for not oncooldown
+
+commit aab0e7c8535a3bc2a957b1f58fc4065eac5761cc
+Author: Kevin De Smet <kevin.de.smet@outlook.be>
+Date:   Fri Jun 16 16:07:20 2017 +0200
+
+    debug error
+
+commit 1509759fd01dd7c51881e5a7e37f24128acd3308
+Author: Kevin De Smet <kevin.de.smet@outlook.be>
+Date:   Fri Jun 16 13:36:56 2017 +0200
+
+    use PaperDoll to get the haste value
+
+commit 6a2a5c32d4d27c8fc4696be7012ee565368d0100
+Author: Kevin De Smet <kevin.de.smet@outlook.be>
+Date:   Fri Jun 16 13:30:06 2017 +0200
+
+    generate UseItems function
+
+commit 6ddc170e438df160595fc6626ec361f67d1ddbef
+Author: Kevin De Smet <kevin.de.smet@outlook.be>
+Date:   Fri Jun 16 13:05:48 2017 +0200
+
+    update shadow priest script
+
+commit d6aaea902f46e45d7cff3246fcd50c6c8f8ff70c
+Author: Kevin De Smet <kevin.de.smet@outlook.be>
+Date:   Fri Jun 16 12:33:32 2017 +0200
+
+    SB at 4 when talented fracture
+
+commit d6aaea902f46e45d7cff3246fcd50c6c8f8ff70c
+Author: Kevin De Smet <kevin.de.smet@outlook.be>
+Date:   Fri Jun 16 12:33:32 2017 +0200
+
+    SB at 4 when talented fracture
+
